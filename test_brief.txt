@@ -1,2 +1,2 @@
-Testing two landing page designs: Control (control_hero_v1) vs. Variant (new_hero_v2).
-A conversion counts when a visitor completes a purchase (Completed_Purchase = Yes) and generates revenue (Order_Value_USD > $0).
+Landing pages tested: control_hero_v1 (control) vs new_hero_v2 (new design variant)
+Conversion = Completed_Purchase = Yes (customer placed an order with any order value)
